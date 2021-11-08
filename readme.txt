@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 9527
 123
 456
+Git has a mutable index callen stage.
